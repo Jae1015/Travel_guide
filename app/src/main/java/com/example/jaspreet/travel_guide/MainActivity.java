@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity
             public void onClick(View view) {
      //           Toast.makeText(MainActivity.this,"clicked on el1",Toast.LENGTH_SHORT).show();
                 alert1.setTitle("SEVEN SISTER FALLS");
-                alert1.setMessage("he seven sisters fall is a kind of waterfall which symbolizes the seven states in northeast namely Assam, Arunachal Pradesh, Manipur, Nagaland, Tripura, Mizoram and Meghalaya. The fall is separated with seven parts over the cliff of the hills.  The view is spectacular and completely engross one individual with the view.");
+                alert1.setMessage("The seven sisters fall is a kind of waterfall which symbolizes the seven states in northeast namely Assam, Arunachal Pradesh, Manipur, Nagaland, Tripura, Mizoram and Meghalaya. The fall is separated with seven parts over the cliff of the hills.  The view is spectacular and completely engross one individual with the view.");
                 alert1.show();
 
             }
